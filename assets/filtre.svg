@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="32" viewBox="0 0 30 32">
+  <g id="filtre" transform="translate(-301 -69.5)">
+    <line id="Ligne_119" data-name="Ligne 119" y2="30" transform="translate(302 70.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="2"/>
+    <g id="filtre-2" data-name="filtre" transform="translate(0 -139)">
+      <g id="Ellipse_299" data-name="Ellipse 299" transform="translate(307 213)" fill="#fff" stroke="#000" stroke-width="1">
+        <circle cx="4" cy="4" r="4" stroke="none"/>
+        <circle cx="4" cy="4" r="3.5" fill="none"/>
+      </g>
+      <g id="Ellipse_300" data-name="Ellipse 300" transform="translate(322 228)" fill="#fff" stroke="#000" stroke-width="1">
+        <circle cx="4" cy="4" r="4" stroke="none"/>
+        <circle cx="4" cy="4" r="3.5" fill="none"/>
+      </g>
+      <line id="Ligne_120" data-name="Ligne 120" x2="10" transform="translate(320 217)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1"/>
+      <line id="Ligne_121" data-name="Ligne 121" x2="10" transform="translate(307 232)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1"/>
+      <line id="Ligne_122" data-name="Ligne 122" x2="23" transform="translate(307.5 224.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

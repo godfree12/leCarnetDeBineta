@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="30" viewBox="0 0 40 40">
+  <rect width="30" height="30" rx="12" ry="12" fill="#e47911"/>
+  <g id="plus" transform="translate(-173 -760)">
+    <line id="Ligne_124" y2="18" transform="translate(188 766)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"/>
+    <line id="Ligne_125" x2="18" transform="translate(178.5 775)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"/>
+  </g>
+</svg>

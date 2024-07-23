@@ -1,0 +1,31 @@
+Navbar.vue
+<template>
+    <nav>
+      <ul>
+        <li><nuxt-link to="/">Accueil</nuxt-link></li>
+        <li><nuxt-link to="/compte">Compte</nuxt-link></li>
+        <li><nuxt-link to="/suggestion">Suggérer une Recette</nuxt-link></li>
+        <li><nuxt-link to="/recherche">Recherche</nuxt-link></li>
+        <li><nuxt-link to="/recette">Recette</nuxt-link></li>
+      </ul>
+    </nav>
+  </template>
+  
+  <script>
+  export default {
+    name: 'Navbar'
+  }
+  </script>
+  
+  <style scoped>
+  /* Styles spécifiques au menu de navigation */
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  li {
+    display: inline;
+    margin-right: 10px;
+  }
+  </style>
+  

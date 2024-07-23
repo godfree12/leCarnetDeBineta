@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32.433" height="32.042" viewBox="0 0 32.433 32.042">
+  <g id="icone_recherche" data-name="icone recherche" transform="translate(13400.023 3386.042)">
+    <g id="Ellipse_321" data-name="Ellipse 321" transform="translate(-13396.318 -3382.339)" fill="#fff5ea" stroke="#c50" stroke-width="1">
+      <circle cx="11" cy="11" r="11" stroke="none"/>
+      <circle cx="11" cy="11" r="10.5" fill="none"/>
+    </g>
+    <path id="Tracé_127976" data-name="Tracé 127976" d="M2.315,8.6a14.252,14.252,0,0,1,26.423,2.572" transform="translate(-13400.318 -3386.339)" fill="none" stroke="#c50" stroke-linecap="round" stroke-width="1"/>
+    <path id="Tracé_127977" data-name="Tracé 127977" d="M1.614,10.123a14.986,14.986,0,0,0,1.52,12.393A14.716,14.716,0,0,0,13.364,29a14.378,14.378,0,0,0,13.913-6.957,14.57,14.57,0,0,0,1.754-9.177" transform="translate(-13400.318 -3386.339)" fill="none" stroke="#c50" stroke-linecap="round" stroke-width="1"/>
+    <g id="Rectangle_784" data-name="Rectangle 784" transform="translate(-13389.318 -3379.339)" fill="#fff5ea" stroke="#c50" stroke-width="0.75">
+      <rect width="9" height="3.5" rx="1.75" stroke="none"/>
+      <rect x="0.375" y="0.375" width="8.25" height="2.75" rx="1.375" fill="none"/>
+    </g>
+    <g id="Rectangle_786" data-name="Rectangle 786" transform="matrix(0.719, 0.695, -0.695, 0.719, -13387.305, -3378.974)" fill="#fff5ea" stroke="#c50" stroke-width="0.75">
+      <rect width="9" height="3.5" rx="1.75" stroke="none"/>
+      <rect x="0.375" y="0.375" width="8.25" height="2.75" rx="1.375" fill="none"/>
+    </g>
+    <g id="Rectangle_785" data-name="Rectangle 785" transform="translate(-13394.283 -3371.339)" fill="#fff5ea" stroke="#c50" stroke-width="0.75">
+      <rect width="9" height="3.5" rx="1.75" stroke="none"/>
+      <rect x="0.375" y="0.375" width="8.25" height="2.75" rx="1.375" fill="none"/>
+    </g>
+    <g id="Rectangle_787" data-name="Rectangle 787" transform="matrix(0.695, -0.719, 0.719, 0.695, -13389.6, -3367.568)" fill="#fff5ea" stroke="#c50" stroke-width="0.75">
+      <rect width="9" height="3.5" rx="1.75" stroke="none"/>
+      <rect x="0.375" y="0.375" width="8.25" height="2.75" rx="1.375" fill="none"/>
+    </g>
+    <g id="Rectangle_789" data-name="Rectangle 789" transform="translate(-13380.064 -3366.728) rotate(45)" fill="#fff5ea" stroke="#c50" stroke-width="0.75">
+      <rect width="14.5" height="3.5" rx="1.75" stroke="none"/>
+      <rect x="0.375" y="0.375" width="13.75" height="2.75" rx="1.375" fill="none"/>
+    </g>
+    <g id="Rectangle_790" data-name="Rectangle 790" transform="translate(-13377.844 -3368.728) rotate(45)" fill="#fff5ea" stroke="#c50" stroke-width="0.75">
+      <rect width="14.5" height="3.5" rx="1.75" stroke="none"/>
+      <rect x="0.375" y="0.375" width="13.75" height="2.75" rx="1.375" fill="none"/>
+    </g>
+    <g id="Rectangle_788" data-name="Rectangle 788" transform="matrix(0.695, -0.719, 0.719, 0.695, -13385.283, -3364.865)" fill="#fff5ea" stroke="#c50" stroke-width="0.75">
+      <rect width="9" height="3.5" rx="1.75" stroke="none"/>
+      <rect x="0.375" y="0.375" width="8.25" height="2.75" rx="1.375" fill="none"/>
+    </g>
+    <g id="Ellipse_322" data-name="Ellipse 322" transform="translate(-13393.318 -3376.339)" fill="none" stroke="#c50" stroke-width="0.75">
+      <circle cx="1.75" cy="1.75" r="1.75" stroke="none"/>
+      <circle cx="1.75" cy="1.75" r="1.375" fill="none"/>
+    </g>
+    <g id="Ellipse_323" data-name="Ellipse 323" transform="translate(-13380.318 -3375.164)" fill="none" stroke="#c50" stroke-width="0.75">
+      <circle cx="1.75" cy="1.75" r="1.75" stroke="none"/>
+      <circle cx="1.75" cy="1.75" r="1.375" fill="none"/>
+    </g>
+    <line id="Ligne_141" data-name="Ligne 141" x2="0.5" y2="0.5" transform="translate(-13390.818 -3378.089)" fill="none" stroke="#c50" stroke-linecap="round" stroke-width="1"/>
+    <line id="Ligne_142" data-name="Ligne 142" x2="0.5" y2="0.5" transform="translate(-13386.818 -3364.089)" fill="none" stroke="#c50" stroke-linecap="round" stroke-width="1"/>
+    <line id="Ligne_143" data-name="Ligne 143" y1="0.5" x2="0.5" transform="translate(-13391.068 -3365.839)" fill="none" stroke="#c50" stroke-linecap="round" stroke-width="1"/>
+  </g>
+</svg>
